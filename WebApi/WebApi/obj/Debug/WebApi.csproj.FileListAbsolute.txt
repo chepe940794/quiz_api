@@ -1,0 +1,90 @@
+c:\users\juanjo\documents\visual studio 2015\Projects\WebApi\WebApi\bin\ApplicationInsights.config
+c:\users\juanjo\documents\visual studio 2015\Projects\WebApi\WebApi\bin\roslyn\csc.exe
+c:\users\juanjo\documents\visual studio 2015\Projects\WebApi\WebApi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\juanjo\documents\visual studio 2015\Projects\WebApi\WebApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\juanjo\documents\visual studio 2015\Projects\WebApi\WebApi\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\juanjo\documents\visual studio 2015\Projects\WebApi\WebApi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\juanjo\documents\visual studio 2015\Projects\WebApi\WebApi\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\juanjo\documents\visual studio 2015\Projects\WebApi\WebApi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\juanjo\documents\visual studio 2015\Projects\WebApi\WebApi\bin\roslyn\System.Collections.Immutable.dll
+c:\users\juanjo\documents\visual studio 2015\Projects\WebApi\WebApi\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\juanjo\documents\visual studio 2015\Projects\WebApi\WebApi\bin\roslyn\vbc.exe
+c:\users\juanjo\documents\visual studio 2015\Projects\WebApi\WebApi\bin\roslyn\VBCSCompiler.exe
+c:\users\juanjo\documents\visual studio 2015\Projects\WebApi\WebApi\bin\roslyn\VBCSCompiler.exe.config
+c:\users\juanjo\documents\visual studio 2015\Projects\WebApi\WebApi\bin\WebApi.dll.config
+c:\users\juanjo\documents\visual studio 2015\Projects\WebApi\WebApi\bin\WebApi.dll
+c:\users\juanjo\documents\visual studio 2015\Projects\WebApi\WebApi\bin\WebApi.pdb
+c:\users\juanjo\documents\visual studio 2015\Projects\WebApi\WebApi\bin\EntityFramework.dll
+c:\users\juanjo\documents\visual studio 2015\Projects\WebApi\WebApi\bin\EntityFramework.SqlServer.dll
+c:\users\juanjo\documents\visual studio 2015\Projects\WebApi\WebApi\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\juanjo\documents\visual studio 2015\Projects\WebApi\WebApi\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\juanjo\documents\visual studio 2015\Projects\WebApi\WebApi\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\juanjo\documents\visual studio 2015\Projects\WebApi\WebApi\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\juanjo\documents\visual studio 2015\Projects\WebApi\WebApi\bin\Microsoft.AI.Web.dll
+c:\users\juanjo\documents\visual studio 2015\Projects\WebApi\WebApi\bin\Microsoft.AI.WindowsServer.dll
+c:\users\juanjo\documents\visual studio 2015\Projects\WebApi\WebApi\bin\Microsoft.ApplicationInsights.dll
+c:\users\juanjo\documents\visual studio 2015\Projects\WebApi\WebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\juanjo\documents\visual studio 2015\Projects\WebApi\WebApi\bin\Newtonsoft.Json.dll
+c:\users\juanjo\documents\visual studio 2015\Projects\WebApi\WebApi\bin\System.Net.Http.Formatting.dll
+c:\users\juanjo\documents\visual studio 2015\Projects\WebApi\WebApi\bin\System.Web.Http.dll
+c:\users\juanjo\documents\visual studio 2015\Projects\WebApi\WebApi\bin\System.Web.Http.WebHost.dll
+c:\users\juanjo\documents\visual studio 2015\Projects\WebApi\WebApi\bin\EntityFramework.xml
+c:\users\juanjo\documents\visual studio 2015\Projects\WebApi\WebApi\bin\EntityFramework.SqlServer.xml
+c:\users\juanjo\documents\visual studio 2015\Projects\WebApi\WebApi\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\juanjo\documents\visual studio 2015\Projects\WebApi\WebApi\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\juanjo\documents\visual studio 2015\Projects\WebApi\WebApi\bin\Microsoft.AI.Web.xml
+c:\users\juanjo\documents\visual studio 2015\Projects\WebApi\WebApi\bin\Microsoft.AI.WindowsServer.xml
+c:\users\juanjo\documents\visual studio 2015\Projects\WebApi\WebApi\bin\Microsoft.ApplicationInsights.xml
+c:\users\juanjo\documents\visual studio 2015\Projects\WebApi\WebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\juanjo\documents\visual studio 2015\Projects\WebApi\WebApi\bin\Newtonsoft.Json.xml
+c:\users\juanjo\documents\visual studio 2015\Projects\WebApi\WebApi\bin\System.Net.Http.Formatting.xml
+c:\users\juanjo\documents\visual studio 2015\Projects\WebApi\WebApi\bin\System.Web.Http.xml
+c:\users\juanjo\documents\visual studio 2015\Projects\WebApi\WebApi\bin\System.Web.Http.WebHost.xml
+c:\users\juanjo\documents\visual studio 2015\Projects\WebApi\WebApi\obj\Debug\WebApi.csprojResolveAssemblyReference.cache
+c:\users\juanjo\documents\visual studio 2015\Projects\WebApi\WebApi\obj\Debug\WebApi.dll
+c:\users\juanjo\documents\visual studio 2015\Projects\WebApi\WebApi\obj\Debug\WebApi.pdb
+C:\Users\juanjo\Desktop\quiz_api\WebApi\WebApi\bin\ApplicationInsights.config
+C:\Users\juanjo\Desktop\quiz_api\WebApi\WebApi\bin\roslyn\csc.exe
+C:\Users\juanjo\Desktop\quiz_api\WebApi\WebApi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\juanjo\Desktop\quiz_api\WebApi\WebApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\juanjo\Desktop\quiz_api\WebApi\WebApi\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\juanjo\Desktop\quiz_api\WebApi\WebApi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\juanjo\Desktop\quiz_api\WebApi\WebApi\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\juanjo\Desktop\quiz_api\WebApi\WebApi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\juanjo\Desktop\quiz_api\WebApi\WebApi\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\juanjo\Desktop\quiz_api\WebApi\WebApi\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\juanjo\Desktop\quiz_api\WebApi\WebApi\bin\roslyn\vbc.exe
+C:\Users\juanjo\Desktop\quiz_api\WebApi\WebApi\bin\roslyn\VBCSCompiler.exe
+C:\Users\juanjo\Desktop\quiz_api\WebApi\WebApi\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\juanjo\Desktop\quiz_api\WebApi\WebApi\bin\WebApi.dll.config
+C:\Users\juanjo\Desktop\quiz_api\WebApi\WebApi\bin\WebApi.dll
+C:\Users\juanjo\Desktop\quiz_api\WebApi\WebApi\bin\WebApi.pdb
+C:\Users\juanjo\Desktop\quiz_api\WebApi\WebApi\bin\EntityFramework.dll
+C:\Users\juanjo\Desktop\quiz_api\WebApi\WebApi\bin\EntityFramework.SqlServer.dll
+C:\Users\juanjo\Desktop\quiz_api\WebApi\WebApi\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\juanjo\Desktop\quiz_api\WebApi\WebApi\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\juanjo\Desktop\quiz_api\WebApi\WebApi\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\juanjo\Desktop\quiz_api\WebApi\WebApi\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\juanjo\Desktop\quiz_api\WebApi\WebApi\bin\Microsoft.AI.Web.dll
+C:\Users\juanjo\Desktop\quiz_api\WebApi\WebApi\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\juanjo\Desktop\quiz_api\WebApi\WebApi\bin\Microsoft.ApplicationInsights.dll
+C:\Users\juanjo\Desktop\quiz_api\WebApi\WebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\juanjo\Desktop\quiz_api\WebApi\WebApi\bin\Newtonsoft.Json.dll
+C:\Users\juanjo\Desktop\quiz_api\WebApi\WebApi\bin\System.Net.Http.Formatting.dll
+C:\Users\juanjo\Desktop\quiz_api\WebApi\WebApi\bin\System.Web.Http.dll
+C:\Users\juanjo\Desktop\quiz_api\WebApi\WebApi\bin\System.Web.Http.WebHost.dll
+C:\Users\juanjo\Desktop\quiz_api\WebApi\WebApi\bin\EntityFramework.xml
+C:\Users\juanjo\Desktop\quiz_api\WebApi\WebApi\bin\EntityFramework.SqlServer.xml
+C:\Users\juanjo\Desktop\quiz_api\WebApi\WebApi\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\juanjo\Desktop\quiz_api\WebApi\WebApi\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\juanjo\Desktop\quiz_api\WebApi\WebApi\bin\Microsoft.AI.Web.xml
+C:\Users\juanjo\Desktop\quiz_api\WebApi\WebApi\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\juanjo\Desktop\quiz_api\WebApi\WebApi\bin\Microsoft.ApplicationInsights.xml
+C:\Users\juanjo\Desktop\quiz_api\WebApi\WebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\juanjo\Desktop\quiz_api\WebApi\WebApi\bin\Newtonsoft.Json.xml
+C:\Users\juanjo\Desktop\quiz_api\WebApi\WebApi\bin\System.Net.Http.Formatting.xml
+C:\Users\juanjo\Desktop\quiz_api\WebApi\WebApi\bin\System.Web.Http.xml
+C:\Users\juanjo\Desktop\quiz_api\WebApi\WebApi\bin\System.Web.Http.WebHost.xml
+C:\Users\juanjo\Desktop\quiz_api\WebApi\WebApi\obj\Debug\WebApi.csprojResolveAssemblyReference.cache
+C:\Users\juanjo\Desktop\quiz_api\WebApi\WebApi\obj\Debug\WebApi.dll
+C:\Users\juanjo\Desktop\quiz_api\WebApi\WebApi\obj\Debug\WebApi.pdb
